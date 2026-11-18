@@ -1,4 +1,4 @@
-# Cineverse-Parcial-1
+# Cineverse-Parcial_1_Y_2
 Esta aplicación se ajusta a los requerimientos del proyecto para el parcial 1.
 
 package com.example.myapplication_sala_de_cine_parcial_1_
